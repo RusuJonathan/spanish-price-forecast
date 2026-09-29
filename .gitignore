@@ -1,1 +1,16 @@
+# Secrets
 .env
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local scratch
+test.py
